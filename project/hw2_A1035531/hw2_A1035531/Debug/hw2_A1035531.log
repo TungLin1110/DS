@@ -1,0 +1,38 @@
+﻿  SparseMatrix.cpp
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(12): error C2143: 語法錯誤: 遺漏 ';' (在 '*' 之前)
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(12): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(12): error C2238: 在 ';' 之前有未預期的語彙基元
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(29): error C2065: 'smArray': 未宣告的識別項
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(29): error C2228: '.col' 的左邊必須有類別/結構/等位
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(31): error C2039: 'smArray': 不是 'SparseMatrix' 的成員
+  d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(14): note: 請參閱 'SparseMatrix' 的宣告
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(31): error C2228: '.row' 的左邊必須有類別/結構/等位
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(32): error C2039: 'smArray': 不是 'SparseMatrix' 的成員
+  d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(14): note: 請參閱 'SparseMatrix' 的宣告
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(32): error C2228: '.col' 的左邊必須有類別/結構/等位
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(32): error C2065: 'smArray': 未宣告的識別項
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(32): error C2228: '.row' 的左邊必須有類別/結構/等位
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(33): error C2039: 'smArray': 不是 'SparseMatrix' 的成員
+  d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(14): note: 請參閱 'SparseMatrix' 的宣告
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(33): error C2228: '.value' 的左邊必須有類別/結構/等位
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(33): error C2065: 'smArray': 未宣告的識別項
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(46): error C2065: 'smArray': 未宣告的識別項
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(46): error C2228: '.col' 的左邊必須有類別/結構/等位
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(52): error C2065: 'smArray': 未宣告的識別項
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(52): error C2228: '.col' 的左邊必須有類別/結構/等位
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(53): error C2039: 'smArray': 不是 'SparseMatrix' 的成員
+  d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(14): note: 請參閱 'SparseMatrix' 的宣告
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(53): error C2228: '.row' 的左邊必須有類別/結構/等位
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(53): error C2065: 'smArray': 未宣告的識別項
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(53): error C2228: '.col' 的左邊必須有類別/結構/等位
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(54): error C2039: 'smArray': 不是 'SparseMatrix' 的成員
+  d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(14): note: 請參閱 'SparseMatrix' 的宣告
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(54): error C2228: '.col' 的左邊必須有類別/結構/等位
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(54): error C2065: 'smArray': 未宣告的識別項
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(54): error C2228: '.row' 的左邊必須有類別/結構/等位
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(55): error C2039: 'smArray': 不是 'SparseMatrix' 的成員
+  d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(14): note: 請參閱 'SparseMatrix' 的宣告
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(55): error C2228: '.value' 的左邊必須有類別/結構/等位
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(55): error C2065: 'smArray': 未宣告的識別項
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(56): error C2065: 'smArray': 未宣告的識別項
+d:\學校\二年級\資料結構\project\hw2_a1035531\hw2_a1035531\sparsematrix.cpp(56): error C2228: '.col' 的左邊必須有類別/結構/等位
