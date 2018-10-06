@@ -1,0 +1,4 @@
+﻿  huffman.cpp
+d:\學校\二年級\資料結構\project\hw5_a1035531\hw5_a1035531\huffman.cpp(77): warning C4018: '<': signed/unsigned 不相符
+d:\學校\二年級\資料結構\project\hw5_a1035531\hw5_a1035531\huffman.cpp(71): warning C4101: 'a2': 未參考的區域變數
+  hw5_A1035531.vcxproj -> D:\學校\二年級\資料結構\project\hw5_A1035531\Debug\hw5_A1035531.exe
