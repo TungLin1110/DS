@@ -1,0 +1,7 @@
+﻿  test.cpp
+d:\學校\二年級\資料結構\project\testread\testread\test.cpp(11): error C2664: 'std::basic_istream<char,std::char_traits<char>> &std::basic_istream<char,std::char_traits<char>>::getline(_Elem *,std::streamsize,_Elem)': 無法將引數 1 從 'int [5]' 轉換為 'char *'
+          with
+          [
+              _Elem=char
+          ]
+  d:\學校\二年級\資料結構\project\testread\testread\test.cpp(11): note: 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換

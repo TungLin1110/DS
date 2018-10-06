@@ -1,0 +1,3 @@
+﻿  11.cpp
+d:\學校\二年級\資料結構\project\testread2\testread2\11.cpp(16): error C2664: 'int fgetc(FILE *)': 無法將引數 1 從 'std::ifstream' 轉換為 'FILE *'
+  d:\學校\二年級\資料結構\project\testread2\testread2\11.cpp(16): note: 沒有可以執行此轉換的使用者定義轉換運算子或無法呼叫運算子
